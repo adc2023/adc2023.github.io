@@ -1,5 +1,1 @@
-<<<<<<<< HEAD:_next/static/u9nFapqUL1VKo75yDeiat/_buildManifest.js
 self.__BUILD_MANIFEST=function(s){return{__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":[s,"static/chunks/pages/index-0eb98b2cd28fae37.js"],"/_error":["static/chunks/pages/_error-8353112a01355ec2.js"],"/organisation":[s,"static/chunks/pages/organisation-34971a3403acd12e.js"],sortedPages:["/","/_app","/_error","/organisation"]}}("static/chunks/675-8e99780fd5e02d1f.js"),self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
-========
-self.__BUILD_MANIFEST=function(s){return{__rewrites:{beforeFiles:[],afterFiles:[],fallback:[]},"/":[s,"static/chunks/pages/index-f848ec1591d6991e.js"],"/_error":["static/chunks/pages/_error-8353112a01355ec2.js"],"/organisation":[s,"static/chunks/pages/organisation-64ff045eab3779a1.js"],sortedPages:["/","/_app","/_error","/organisation"]}}("static/chunks/675-8e99780fd5e02d1f.js"),self.__BUILD_MANIFEST_CB&&self.__BUILD_MANIFEST_CB();
->>>>>>>> bcb2b142210ad7945d03553f28fe449af56b6e23:_next/static/wRgWeMa7dSSDNowEcP-z8/_buildManifest.js
